@@ -1,1 +1,1 @@
-Skibidi toliet = Jaeson Kwan
+Skibidi Toliet = Jaeson Kwan
